@@ -1,0 +1,2 @@
+g++ -o solve.exe -Wall cube.cpp G0_to_G1.cpp G1_to_G2.cpp G2_to_G3.cpp G3_to_G4.cpp main.cpp
+g++ -o translate.exe -Wall translate.cpp
