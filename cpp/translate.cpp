@@ -35,7 +35,7 @@ void fun(char *S, int n)
             a=0;
         }
     }
-    printf("00");
+    printf("0F");
     puts("\n");
 }
 
