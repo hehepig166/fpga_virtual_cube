@@ -108,7 +108,7 @@ set_property PACKAGE_PIN R15 [get_ports I_timer_rst]
 set_property IOSTANDARD LVCMOS33 [get_ports I_timer_rst]
 
 set_property IOSTANDARD LVCMOS33 [get_ports I_bluetooth_get]
-set_property PACKAGE_PIN G6 [get_ports I_bluetooth_get]
+set_property PACKAGE_PIN G3 [get_ports I_bluetooth_get]
 
 set_property PACKAGE_PIN V11 [get_ports {leds[6]}]
 set_property PACKAGE_PIN V12 [get_ports {leds[5]}]
@@ -120,3 +120,4 @@ set_property PACKAGE_PIN T15 [get_ports {leds[0]}]
 set_property IOSTANDARD LVCMOS33 [get_ports {leds[6]}]
 set_property IOSTANDARD LVCMOS33 [get_ports {leds[5]}]
 set_property IOSTANDARD LVCMOS33 [get_ports {leds[4]}]
+
