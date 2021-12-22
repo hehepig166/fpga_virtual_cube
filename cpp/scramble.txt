@@ -1,1 +1,10 @@
 U R B U2 F L2 B2 U2 F L2 F' L2 F2 R D B D' R2 U2 L
+
+CMLL:
+    H:      R U2 R' U' R U R' U' R U' R'
+    Pi:     F R U R' U' R U R' U' F'
+    U:      U' F R U R' U' F'
+    T:      U' R U R' U' R' F R F'
+    L:      F R' F' R U R U' R'
+    O:      R U R' F' R U R' U' R' F R2 U' R'
+            F R U' R' U' R U R' F' R U R' U' R' F R F'
