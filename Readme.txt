@@ -3,6 +3,7 @@
 	虚拟魔方
 	C++解魔方程序
 	演示:	https://www.bilibili.com/video/BV1SS4y1D7X3?spm_id_from=333.999.0.0
+		https://www.bilibili.com/video/BV1Ea4116776?spm_id_from=333.999.0.0
 
 
 fpga过程：
